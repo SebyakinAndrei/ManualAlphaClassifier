@@ -1,0 +1,2 @@
+# ManualAlphaClassifier
+Manual Alphabet Classificator
